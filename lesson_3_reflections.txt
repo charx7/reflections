@@ -1,2 +1,4 @@
 When would you want to create a remote repo rather than a local one?
 When you want to collaborate with other pople!
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Because of the size of the files and internet xd
